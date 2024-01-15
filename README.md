@@ -1,8 +1,8 @@
-### Hi there, I'm Dennis Wang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" left="5%">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&vCenter=true&random=false&width=435&height=35&lines=Hi+There!+%F0%9F%91%8B;I'm+Dennis+Wang!)](https://git.io/typing-svg)
 - ✝️  &nbsp;Follower of Jesus Christ
 - 🎓 &nbsp;Master Student of Computer Science
 - 💼 &nbsp;Multiple Frontend Software Engineer Interns
-- 🥅 &nbsp;Seeking Full-Time Software Engineer Position
+- 🔭 &nbsp;Seeking Full-Time Software Engineer Position
 - 👨‍💻 &nbsp;Check out my personal website to <a href="https://denniszwang.github.io/"> Know More!<a> 
 
 ### Connect With Me:
@@ -35,14 +35,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
 ### Development Analytics
-
 <img align="center" src="https://github-readme-stats-pi-ten-86.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&card_width=495">
 <img align="center" src="https://github-readme-stats-pi-ten-86.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&custom_title=Weekly%20Coding%20Overview">
 
 ### Github Summary
 <details open>
   <summary style="font-size: 1.2em;">⚡ Pinned Repositories</summary>
-  
   <!-- <a href="https://github.com/denniszwang/react_project">
     <img align="center" src="https://github-readme-stats-pi-ten-86.vercel.app/api/pin/?username=denniszwang&repo=react_project&theme=github_dark&hide_border=true" />
   </a>
@@ -58,14 +56,16 @@
 </details>
 
 <details>
-  <summary style="font-size: 1.2em;">⚡ Contribution Statistics</summary>
+  <summary style="font-size: 1.2em;">⚡ Contributions Report</summary>
   
+  #### Contributions Overview
   [![GitHub Streak](https://streak-stats.demolab.com?user=denniszwang&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+  #### Contributions in the last year
   ![Snake animation](https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake-dark.svg)
 </details>
 
 <details>
-  <summary style="font-size: 1.2em;">⚡ Recent Activities</summary>
+  <summary style="font-size: 1.2em;">⚡ Recent Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/denniszwang/denniszwang/pull/2) in [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)
