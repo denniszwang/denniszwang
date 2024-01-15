@@ -1,9 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&vCenter=true&random=false&width=435&height=35&lines=Hi+There!+%F0%9F%91%8B;I'm+Dennis+Wang!)](https://git.io/typing-svg)
-- ✝️  &nbsp;Follower of Jesus Christ
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&vCenter=true&random=false&width=435&height=40&lines=Hi+There!+%F0%9F%91%8B;I'm+Dennis+Wang" />
+</h1>
+
+### A full-stack developer living in Philadelphia!
+
 - 🎓 &nbsp;Master Student of Computer Science
-- 💼 &nbsp;Multiple Frontend Software Engineer Interns
+- 💼 &nbsp;Frontend Web Developer Intern
 - 🔭 &nbsp;Seeking Full-Time Software Engineer Position
-- 👨‍💻 &nbsp;Check out my personal website to <a href="https://denniszwang.github.io/"> Know More!<a> 
+- 📄 &nbsp;Click here to view my <a href="https://drive.google.com/file/d/1HSc0zjag_MQ6pcE0mBG8ZtifngaFRk0X/view?usp=drive_link" class="btn" target="_blank"> Resume </a>
+- 👨‍💻 &nbsp;Check out my personal website to <a href="https://denniszwang.github.io/"> Know More!</a> 
 
 ### Connect With Me:
 <a href="https://www.linkedin.com/in/denniswang1011"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&logoColor=0077B5"/></a>
@@ -40,7 +45,7 @@
 
 ### Github Summary
 <details open>
-  <summary style="font-size: 1.2em;">⚡ Pinned Repositories</summary>
+  <summary style="font-size: 1.2em;">⚡ Selected Projects</summary>
   <!-- <a href="https://github.com/denniszwang/react_project">
     <img align="center" src="https://github-readme-stats-pi-ten-86.vercel.app/api/pin/?username=denniszwang&repo=react_project&theme=github_dark&hide_border=true" />
   </a>
@@ -56,7 +61,7 @@
 </details>
 
 <details>
-  <summary style="font-size: 1.2em;">⚡ Contributions Report</summary>
+  <summary style="font-size: 1.2em;">⚡ Contribution Report</summary>
   
   #### Contributions Overview
   [![GitHub Streak](https://streak-stats.demolab.com?user=denniszwang&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
@@ -65,7 +70,7 @@
 </details>
 
 <details>
-  <summary style="font-size: 1.2em;">⚡ Recent Activity</summary>
+  <summary style="font-size: 1.2em;">⚡ Recent Activities</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/denniszwang/denniszwang/pull/2) in [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)
