@@ -42,6 +42,7 @@
 ### Github Summary
 <details open>
   <summary style="font-size: 1.2em;">⚡ Pinned Repositories</summary>
+  
   <!-- <a href="https://github.com/denniszwang/react_project">
     <img align="center" src="https://github-readme-stats-pi-ten-86.vercel.app/api/pin/?username=denniszwang&repo=react_project&theme=github_dark&hide_border=true" />
   </a>
@@ -58,8 +59,9 @@
 
 <details>
   <summary style="font-size: 1.2em;">⚡ Contribution Statistics</summary>
-
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=denniszwang&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+  ![Snake animation](https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake-dark.svg)
 </details>
 
 <details>
