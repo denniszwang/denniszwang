@@ -40,8 +40,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
 ### Development Analytics
-<img align="center" src="https://github-readme-stats-pi-ten-86.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&card_width=495">
-<img align="center" src="https://github-readme-stats-pi-ten-86.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&custom_title=Weekly%20Coding%20Overview">
+<img align="center" src="https://github-readme-stats-pi-ten-86.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&hide_border=true&card_width=495#gh-light-mode-only">
+<img align="center" src="https://github-readme-stats-pi-ten-86.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&card_width=495#gh-dark-mode-only">
+<img align="center" src="https://github-readme-stats-pi-ten-86.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&hide_border=true&custom_title=Weekly%20Coding%20Overview#gh-light-mode-only">
+<img align="center" src="https://github-readme-stats-pi-ten-86.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&custom_title=Weekly%20Coding%20Overview#gh-dark-mode-only">
 
 ### Github Summary
 <details open>
