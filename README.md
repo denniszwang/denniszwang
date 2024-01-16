@@ -1,5 +1,4 @@
 ![banner](https://github.com/denniszwang/denniszwang/blob/main/img/banner.png)
-
 <div align="center">
   <a href="https://git.io/typing-svg#gh-light-mode-only">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&Duration=3000&pause=1000&color=000&center=true&vCenter=true&random=false&width=550&height=55&lines=Full-Stack+Web+Developer;Experienced+UI%2FUX+Designer;Computer+Science+Master" alt="Typing SVG Light" />
@@ -13,6 +12,9 @@
   <a href="https://denniszwang.github.io/#gh-light-mode-only"><img src="./img/globe-light.svg" alt="website" width="40"></a>
   <a href="https://denniszwang.github.io/#gh-dark-mode-only"><img src="./img/globe-dark.svg" alt="website" width="40"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://drive.google.com/file/d/1HSc0zjag_MQ6pcE0mBG8ZtifngaFRk0X/view?usp=drive_link#gh-light-mode-only"><img src="./img/file-light.svg" alt="website" width="40"></a>
+  <a href="https://drive.google.com/file/d/1HSc0zjag_MQ6pcE0mBG8ZtifngaFRk0X/view?usp=drive_link#gh-dark-mode-only"><img src="./img/file-dark.svg" alt="website" width="40"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linkedin.com/in/denniswang1011#gh-light-mode-only"><img src="./img/linkedin-light.svg" alt="website" width="40"></a>
   <a href="https://linkedin.com/in/denniswang1011#gh-dark-mode-only"><img src="./img/linkedin-dark.svg" alt="website" width="40"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
@@ -21,38 +23,37 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/denniszwang#gh-light-mode-only"><img src="./img/github-light.svg" alt="website" width="40"></a>
   <a href="https://github.com/denniszwang#gh-dark-mode-only"><img src="./img/github-dark.svg" alt="website" width="40"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://drive.google.com/file/d/1HSc0zjag_MQ6pcE0mBG8ZtifngaFRk0X/view?usp=drive_link#gh-light-mode-only"><img src="./img/file-light.svg" alt="website" width="40"></a>
-  <a href="https://drive.google.com/file/d/1HSc0zjag_MQ6pcE0mBG8ZtifngaFRk0X/view?usp=drive_link#gh-dark-mode-only"><img src="./img/file-dark.svg" alt="website" width="40"></a>
 </div>
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="padding-right:10px;"/>
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" style="padding-right:10px;"/>
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postgresql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <br>
 
 ### Development Analytics
-[![Top Langs](https://github-readme-stats-pi-ten-86.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&card_width=480)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats-pi-ten-86.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&hide_border=true&card_width=480)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats-pi-ten-86.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&card_width=495)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-pi-ten-86.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&hide_border=true&card_width=495)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
 [![Coding Stats](https://github-readme-stats-pi-ten-86.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&custom_title=Weekly%20Coding%20Overview)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
 [![Coding Stats](https://github-readme-stats-pi-ten-86.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&hide_border=true&custom_title=Weekly%20Coding%20Overview)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
 
 ### Github Summary
-<details open>
+<details>
   <summary style="font-size: 1.2em;">⚡ Selected Projects</summary>
 
-<!-- [![Dennis's GitHub repo-Dark](https://github-readme-stats-pi-ten-86.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
-[![Dennis's GitHub repo-Light](https://github-readme-stats-pi-ten-86.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only) -->
+<!--[![Dennis's GitHub repo-Dark](https://github-readme-stats-pi-ten-86.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
+[![Dennis's GitHub repo-Light](https://github-readme-stats-pi-ten-86.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
+[![Dennis's GitHub repo-Dark](https://github-readme-stats-pi-ten-86.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
+[![Dennis's GitHub repo-Light](https://github-readme-stats-pi-ten-86.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)-->
 </details>
 
 <details>
