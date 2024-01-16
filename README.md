@@ -36,32 +36,34 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Postgresql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <br>
 
 ### Development Analytics
-[![Top Langs](https://github-readme-stats-pi-ten-86.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&card_width=495)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats-pi-ten-86.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&hide_border=true&card_width=495)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
-[![Coding Stats](https://github-readme-stats-pi-ten-86.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&custom_title=Weekly%20Coding%20Overview)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
-[![Coding Stats](https://github-readme-stats-pi-ten-86.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&hide_border=true&custom_title=Weekly%20Coding%20Overview)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats-dennis.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&card_width=495)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-dennis.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&hide_border=true&card_width=495)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
+[![Coding Stats](https://github-readme-stats-dennis.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&custom_title=Weekly%20Coding%20Overview)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
+[![Coding Stats](https://github-readme-stats-dennis.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&hide_border=true&custom_title=Weekly%20Coding%20Overview)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
 
 ### Github Summary
 <details>
   <summary style="font-size: 1.2em;">⚡ Selected Projects</summary>
 
-<!--[![Dennis's GitHub repo-Dark](https://github-readme-stats-pi-ten-86.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
-[![Dennis's GitHub repo-Light](https://github-readme-stats-pi-ten-86.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
-[![Dennis's GitHub repo-Dark](https://github-readme-stats-pi-ten-86.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
-[![Dennis's GitHub repo-Light](https://github-readme-stats-pi-ten-86.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)-->
+<!--[![Dennis's GitHub repo-Dark](https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
+[![Dennis's GitHub repo-Light](https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
+[![Dennis's GitHub repo-Dark](https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
+[![Dennis's GitHub repo-Light](https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)-->
 </details>
 
 <details>
   <summary style="font-size: 1.2em;">⚡ Contribution Report</summary>
   
   #### Contributions Overview
-  [![GitHub Streak](https://streak-stats.demolab.com?user=denniszwang&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats#gh-dark-mode-only)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=denniszwang&hide_border=true)](https://git.io/streak-stats#gh-light-mode-only)
+  [![GitHub Streak](https://github-readme-streak-stats-dennis.vercel.app?user=denniszwang&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats#gh-dark-mode-only)
+  [![GitHub Streak](https://github-readme-streak-stats-dennis.vercel.app?user=denniszwang&hide_border=true)](https://git.io/streak-stats#gh-light-mode-only)
   
   #### Contributions in the last year
   ![Snake animation](https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
