@@ -26,7 +26,7 @@
 </div>
 
 ### Languages and Tools:
-<div>
+<div style="display: flex; flex-wrap: wrap; align-items:center;">
   <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   <img alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"" style="padding-right:10px;" />
   <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
