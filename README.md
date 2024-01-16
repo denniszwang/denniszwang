@@ -1,4 +1,5 @@
-![banner](https://github.com/denniszwang/denniszwang/blob/main/img/banner.png)
+<img src="https://github.com/denniszwang/denniszwang/blob/main/img/banner.png" alt="banner">
+
 <div align="center">
   <a href="https://git.io/typing-svg#gh-light-mode-only">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&Duration=3000&pause=1000&color=000&center=true&vCenter=true&random=false&width=550&height=55&lines=Full-Stack+Web+Developer;Experienced+UI%2FUX+Designer;Computer+Science+Master" alt="Typing SVG Light" />
@@ -8,7 +9,7 @@
   </a>
 </div>
 
-<div align="center" style="text-align: center;">
+<div align="center">
   <a href="https://denniszwang.github.io/#gh-light-mode-only"><img src="./img/globe-light.svg" alt="website" width="40"></a>
   <a href="https://denniszwang.github.io/#gh-dark-mode-only"><img src="./img/globe-dark.svg" alt="website" width="40"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
@@ -25,30 +26,45 @@
   <a href="https://github.com/denniszwang#gh-dark-mode-only"><img src="./img/github-dark.svg" alt="website" width="40"></a>
 </div>
 
-### Languages and Tools:
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" style="padding-right:10px;"/>
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Postgresql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<br>
+<h3> Languages and Tools:</h3>
+<div>
+  <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  &#8287;&#8287;
+  <img alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg""/>
+  &#8287;&#8287;
+  <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/
+  &#8287;&#8287;
+  <img alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/>
+  &#8287;&#8287;
+  <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  &#8287;&#8287;
+  <img alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
+  &#8287;&#8287;
+  <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  &#8287;&#8287;
+  <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  &#8287;&#8287;
+  <img alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  &#8287;&#8287;
+  <img alt="Postgresql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"/>
+  &#8287;&#8287;
+  <img alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  &#8287;&#8287;
+  <img alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  &#8287;&#8287;
+  <img alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+  &#8287;&#8287;
+  <img alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+</div>
 
-### Development Analytics
+<h3>Development Analytics</h3>
+
 [![Top Langs](https://github-readme-stats-dennis.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&card_width=495)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats-dennis.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&hide_border=true&card_width=495)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
 [![Coding Stats](https://github-readme-stats-dennis.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&custom_title=Weekly%20Coding%20Overview)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
 [![Coding Stats](https://github-readme-stats-dennis.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&hide_border=true&custom_title=Weekly%20Coding%20Overview)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
 
-### Github Summary
+<h3>Github Summary</h3>
 <details>
   <summary style="font-size: 1.2em;">⚡ Selected Projects</summary>
 
@@ -61,11 +77,11 @@
 <details>
   <summary style="font-size: 1.2em;">⚡ Contribution Report</summary>
   
-  #### Contributions Overview
+  #### 🔥 Contributions Overview
   [![GitHub Streak](https://github-readme-streak-stats-dennis.vercel.app?user=denniszwang&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats#gh-dark-mode-only)
   [![GitHub Streak](https://github-readme-streak-stats-dennis.vercel.app?user=denniszwang&hide_border=true)](https://git.io/streak-stats#gh-light-mode-only)
   
-  #### Contributions in the last year
+  #### 🔥 Contributions in the last year
   ![Snake animation](https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   ![Snake animation](https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </details>
