@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/denniszwang#gh-light-mode-only" style="pointer-events: none;">
+  <a href="https://readme-typing-svg.herokuapp.com#gh-light-mode-only">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&Duration=3000&pause=1000&color=000&center=true&vCenter=true&random=false&width=550&height=55&lines=Full-Stack+Web+Developer;Experienced+UI%2FUX+Designer;Computer+Science+Master" alt="Typing SVG Light" />
   </a>
-  <a href="https://github.com/denniszwang#gh-dark-mode-only" style="pointer-events: none;">
+  <a href="https://readme-typing-svg.herokuapp.com#gh-dark-mode-only">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&Duration=3000&pause=1000&color=fff&center=true&vCenter=true&random=false&width=550&height=55&lines=Full-Stack+Web+Developer;Experienced+UI%2FUX+Designer;Computer+Science+Master" alt="Typing SVG Dark" />
   </a>
 </div>
@@ -61,54 +61,60 @@
 
 <h3 style="margin: 1vh 0;">Development Analytics</h3>
 <div>
-  <a href="https://github.com/denniszwang#gh-dark-mode-only" style="pointer-events: none;">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats-dennis.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&card_width=495" alt="Top Langs" />
   </a>
-  <a href="https://github.com/denniszwang#gh-light-mode-only" style="pointer-events: none;">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img src="https://github-readme-stats-dennis.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&hide_border=true&card_width=495" alt="Top Langs" />
   </a>
-  <a href="https://github.com/denniszwang#gh-dark-mode-only" style="pointer-events: none;">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats-dennis.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&custom_title=Weekly%20Coding%20Overview" alt="Coding Stats" />
   </a>
-  <a href="https://github.com/denniszwang#gh-light-mode-only" style="pointer-events: none;">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img src="https://github-readme-stats-dennis.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&hide_border=true&custom_title=Weekly%20Coding%20Overview" alt="Coding Stats" />
   </a>
 </div>
 
 <h3 style="margin: 1vh 0;">Github Summary</h3>
 <details>
-  <summary style="font-size: 1.2em;">⚡ Selected Projects</summary>
-  <div>
-
-  </div>
+  <summary style="font-size: 1.2em;">📘 Featured Projects</summary>
+  <!-- <div>
+    <a href="https://github.com/denniszwang/react-project#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=react-project&theme=github_dark&hide_border=true" alt="react-project"></a>
+    <a href="https://github.com/denniszwang/react-project#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=react-project&theme=github_light&hide_border=true" alt="react-project"></a>
+    <a href="https://github.com/denniszwang/vue-project#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=vue-project&theme=github_dark&hide_border=true" alt="vue-project"></a>
+    <a href="https://github.com/denniszwang/vue-project#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=vue-project&theme=github_light&hide_border=true" alt="vue-project"></a>
+  </div> -->
 </details>
 
 <details>
-  <summary style="font-size: 1.2em;">⚡ Contribution Report</summary>
+  <summary style="font-size: 1.2em;">🔥 Contribution Report</summary>
   <div>
-    <h3> 🔥 Contributions Overview</h3>
-    <a href="https://github.com/denniszwang#gh-dark-mode-only" style="pointer-events: none;">
+    <h3>Contribution Overview</h3> 
+    <a href="https://github-readme-streak-stats.herokuapp.com#gh-dark-mode-only">
       <img src="https://github-readme-streak-stats-dennis.vercel.app?user=denniszwang&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
     </a>
-    <a href="https://github.com/denniszwang#gh-light-mode-only" style="pointer-events: none;">
+    <a href="https://github-readme-streak-stats.herokuapp.com#gh-light-mode-only">
       <img src="https://github-readme-streak-stats-dennis.vercel.app?user=denniszwang&hide_border=true" alt="GitHub Streak" />
     </a>
   </div>
   <div>
+    <h3>Contribution Graph</h3>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only"><img alt="Dennis's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=denniszwang&theme=github-dark&hide_border=true&custom_title=Dennis%20Wang's%20Contribution%20Graph" /></a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph#gh-light-mode-only"><img alt="Dennis's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=denniszwang&bg_color=fff&color=000&title_color=000&line=ee7600&hide_border=true&custom_title=Dennis%20Wang's%20Contribution%20Graph" /></a>
+  </div>
+  <!-- <div>
   <h3> 🔥 Contributions in the last year</h3> 
     <img src="https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
     <img src="https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
-  </div>
+  </div> -->
 </details>
 
 <details>
   <summary style="font-size: 1.2em;">⚡ Recent Activities</summary>
-  
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/denniszwang/denniszwang/pull/2) in [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)
 2. 💪 Opened PR [#2](https://github.com/denniszwang/denniszwang/pull/2) in [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)
 3. 🎉 Merged PR [#1](https://github.com/denniszwang/denniszwang/pull/1) in [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)
 4. 💪 Opened PR [#1](https://github.com/denniszwang/denniszwang/pull/1) in [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)
 <!--END_SECTION:activity-->
-
 </details>
