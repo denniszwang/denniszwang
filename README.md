@@ -1,10 +1,12 @@
-<img src="https://github.com/denniszwang/denniszwang/blob/main/img/banner.png" alt="banner">
+<div align="center">
+  <img src="https://github.com/denniszwang/denniszwang/blob/main/img/banner.png" alt="banner">
+</div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg#gh-light-mode-only">
+  <a href="https://github.com/denniszwang#gh-light-mode-only" style="pointer-events: none;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&Duration=3000&pause=1000&color=000&center=true&vCenter=true&random=false&width=550&height=55&lines=Full-Stack+Web+Developer;Experienced+UI%2FUX+Designer;Computer+Science+Master" alt="Typing SVG Light" />
   </a>
-  <a href="https://git.io/typing-svg#gh-dark-mode-only">
+  <a href="https://github.com/denniszwang#gh-dark-mode-only" style="pointer-events: none;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&Duration=3000&pause=1000&color=fff&center=true&vCenter=true&random=false&width=550&height=55&lines=Full-Stack+Web+Developer;Experienced+UI%2FUX+Designer;Computer+Science+Master" alt="Typing SVG Dark" />
   </a>
 </div>
@@ -57,33 +59,46 @@
   <img alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 </div>
 
-<h3>Development Analytics</h3>
+<h3 style="margin: 1vh 0;">Development Analytics</h3>
+<div>
+  <a href="https://github.com/denniszwang#gh-dark-mode-only" style="pointer-events: none;">
+    <img src="https://github-readme-stats-dennis.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&card_width=495" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/denniszwang#gh-light-mode-only" style="pointer-events: none;">
+    <img src="https://github-readme-stats-dennis.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&hide_border=true&card_width=495" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/denniszwang#gh-dark-mode-only" style="pointer-events: none;">
+    <img src="https://github-readme-stats-dennis.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&custom_title=Weekly%20Coding%20Overview" alt="Coding Stats" />
+  </a>
+  <a href="https://github.com/denniszwang#gh-light-mode-only" style="pointer-events: none;">
+    <img src="https://github-readme-stats-dennis.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&hide_border=true&custom_title=Weekly%20Coding%20Overview" alt="Coding Stats" />
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats-dennis.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&card_width=495)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats-dennis.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&hide_border=true&card_width=495)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
-[![Coding Stats](https://github-readme-stats-dennis.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&custom_title=Weekly%20Coding%20Overview)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
-[![Coding Stats](https://github-readme-stats-dennis.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&hide_border=true&custom_title=Weekly%20Coding%20Overview)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
-
-<h3>Github Summary</h3>
+<h3 style="margin: 1vh 0;">Github Summary</h3>
 <details>
   <summary style="font-size: 1.2em;">⚡ Selected Projects</summary>
+  <div>
 
-<!--[![Dennis's GitHub repo-Dark](https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
-[![Dennis's GitHub repo-Light](https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)
-[![Dennis's GitHub repo-Dark](https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-dark-mode-only)
-[![Dennis's GitHub repo-Light](https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=js_project&theme=github_dark&hide_border=true)](https://github.com/denniszwang/github-readme-stats#gh-light-mode-only)-->
+  </div>
 </details>
 
 <details>
   <summary style="font-size: 1.2em;">⚡ Contribution Report</summary>
-  
-  #### 🔥 Contributions Overview
-  [![GitHub Streak](https://github-readme-streak-stats-dennis.vercel.app?user=denniszwang&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats#gh-dark-mode-only)
-  [![GitHub Streak](https://github-readme-streak-stats-dennis.vercel.app?user=denniszwang&hide_border=true)](https://git.io/streak-stats#gh-light-mode-only)
-  
-  #### 🔥 Contributions in the last year
-  ![Snake animation](https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  ![Snake animation](https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  <div>
+    <h3> 🔥 Contributions Overview</h3>
+    <a href="https://github.com/denniszwang#gh-dark-mode-only" style="pointer-events: none;">
+      <img src="https://github-readme-streak-stats-dennis.vercel.app?user=denniszwang&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/denniszwang#gh-light-mode-only" style="pointer-events: none;">
+      <img src="https://github-readme-streak-stats-dennis.vercel.app?user=denniszwang&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </div>
+  <div>
+  <h3> 🔥 Contributions in the last year</h3> 
+    <img src="https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+    <img src="https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
+  </div>
 </details>
 
 <details>
