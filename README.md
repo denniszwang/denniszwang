@@ -15,8 +15,8 @@
   <a href="https://denniszwang.github.io/#gh-light-mode-only"><img src="./img/globe-light.svg" alt="website" width="40"></a>
   <a href="https://denniszwang.github.io/#gh-dark-mode-only"><img src="./img/globe-dark.svg" alt="website" width="40"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://drive.google.com/file/d/1HSc0zjag_MQ6pcE0mBG8ZtifngaFRk0X/view?usp=drive_link#gh-light-mode-only"><img src="./img/file-light.svg" alt="website" width="40"></a>
-  <a href="https://drive.google.com/file/d/1HSc0zjag_MQ6pcE0mBG8ZtifngaFRk0X/view?usp=drive_link#gh-dark-mode-only"><img src="./img/file-dark.svg" alt="website" width="40"></a>
+  <a href="https://www.dropbox.com/scl/fi/zfoi0zucnrwmo979zwe6k/Resume.pdf?rlkey=49u4zhq86345vzl45uzw35py5&dl=0#gh-light-mode-only"><img src="./img/file-light.svg" alt="website" width="40"></a>
+  <a href="https://www.dropbox.com/scl/fi/zfoi0zucnrwmo979zwe6k/Resume.pdf?rlkey=49u4zhq86345vzl45uzw35py5&dl=0#gh-dark-mode-only"><img src="./img/file-dark.svg" alt="website" width="40"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linkedin.com/in/denniswang1011#gh-light-mode-only"><img src="./img/linkedin-light.svg" alt="website" width="40"></a>
   <a href="https://linkedin.com/in/denniswang1011#gh-dark-mode-only"><img src="./img/linkedin-dark.svg" alt="website" width="40"></a>
