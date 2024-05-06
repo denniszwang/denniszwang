@@ -109,9 +109,11 @@
   </div> -->
 </details>
 
-<details>
+<!--<details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
 
-</details>
+</details>-->
+
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
