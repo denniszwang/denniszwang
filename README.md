@@ -68,10 +68,10 @@
     <img src="https://github-readme-stats-dennis.vercel.app/api/top-langs/?username=denniszwang&langs_count=6&layout=compact&hide_border=true&card_width=495" alt="Top Langs" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats-dennis.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&custom_title=Weekly%20Coding%20Overview" alt="Coding Stats" />
+    <img src="https://github-readme-stats-dennis.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&theme=github_dark&hide_border=true&custom_title=Monthly%20Coding%20Overview" alt="Coding Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats-dennis.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&hide_border=true&custom_title=Weekly%20Coding%20Overview" alt="Coding Stats" />
+    <img src="https://github-readme-stats-dennis.vercel.app/api/wakatime?username=denniszwang&langs_count=6&layout=compact&hide_border=true&custom_title=Monthly%20Coding%20Overview" alt="Coding Stats" />
   </a>
 </div>
 
@@ -113,9 +113,5 @@
   <summary style="font-size: 1.2em;">⚡ Recent Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/denniszwang/denniszwang/pull/2) in [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)
-2. 💪 Opened PR [#2](https://github.com/denniszwang/denniszwang/pull/2) in [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)
-3. 🎉 Merged PR [#1](https://github.com/denniszwang/denniszwang/pull/1) in [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)
-4. 💪 Opened PR [#1](https://github.com/denniszwang/denniszwang/pull/1) in [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)
 <!--END_SECTION:activity-->
 </details>
