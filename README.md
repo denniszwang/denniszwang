@@ -108,11 +108,3 @@
     <img src="https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
   </div> -->
 </details>
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>-
