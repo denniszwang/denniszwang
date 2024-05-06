@@ -110,8 +110,8 @@
 </details>
 
 <details>
-  <summary style="font-size: 1.2em;">⚡ Recent Activities</summary>
+  <summary>:zap: Recent GitHub Activity</summary>
   
-  <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 
 </details>
