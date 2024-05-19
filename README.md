@@ -76,14 +76,14 @@
 </div>
 
 <h3 style="margin: 1vh 0;">Github Summary</h3>
-<details>
+<details open>
   <summary style="font-size: 1.2em;">📘 Featured Projects</summary>
-  <!-- <div>
-    <a href="https://github.com/denniszwang/react-project#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=react-project&theme=github_dark&hide_border=true" alt="react-project"></a>
-    <a href="https://github.com/denniszwang/react-project#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=react-project&theme=github_light&hide_border=true" alt="react-project"></a>
-    <a href="https://github.com/denniszwang/vue-project#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=vue-project&theme=github_dark&hide_border=true" alt="vue-project"></a>
-    <a href="https://github.com/denniszwang/vue-project#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=vue-project&theme=github_light&hide_border=true" alt="vue-project"></a>
-  </div> -->
+  <div>
+    <a href="https://github.com/denniszwang/DegreePlanner#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=DegreePlanner&theme=github_dark&hide_border=true" alt="react-project"></a>
+    <a href="https://github.com/denniszwang/DegreePlanner#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=DegreePlanner&theme=github_light&hide_border=true" alt="react-project"></a>
+    <a href="https://github.com/denniszwang/denniszwang#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=denniszwang&theme=github_dark&hide_border=true" alt="vue-project"></a>
+    <a href="https://github.com/denniszwang/denniszwang#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=denniszwang&theme=github_light&hide_border=true" alt="vue-project"></a>
+  </div>
 </details>
 
 <details>
@@ -107,4 +107,11 @@
     <img src="https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
     <img src="https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
   </div> -->
+</details>
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
 </details>
