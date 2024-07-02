@@ -86,7 +86,7 @@
   </div>
 </details>
 
-<details open>
+<details>
   <summary style="font-size: 1.2em;">🔥 Contribution Report</summary>
   <div>
     <h3>Contribution Overview</h3> 
@@ -107,4 +107,13 @@
     <img src="https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
     <img src="https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
   </div> -->
+</details>
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
 </details>
