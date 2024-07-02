@@ -28,7 +28,11 @@
   <a href="https://github.com/denniszwang#gh-dark-mode-only"><img src="./img/github-dark.svg" alt="website" width="40"></a>
 </div>
 
-<h3> Languages and Tools:</h3>
+<h3> About Me</h3>
+<div> My name is <b>Dennis Wang</b>, and I am a CS Graduate Student at <strong>UPenn</strong>.</div>
+<div> I am a <b>non-binary</b> software developer, seeking <b><ins>Full-Time SDE</ins></b> position.</div>
+
+<h3> Languages and Tools</h3>
 <div>
   <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   &#8287;&#8287;
@@ -79,8 +83,8 @@
 <details open>
   <summary style="font-size: 1.2em;">📘 Featured Projects</summary>
   <div>
-    <a href="https://github.com/denniszwang//GoFundMe#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=GoFundMe&theme=github_dark&hide_border=true" alt="mern-project"></a>
-    <a href="https://github.com/denniszwang//GoFundMe#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=GoFundMe&theme=github_light&hide_border=true" alt="mern-project"></a>
+    <a href="https://github.com/denniszwang/GoFundMe#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=GoFundMe&theme=github_dark&hide_border=true" alt="mern-project"></a>
+    <a href="https://github.com/denniszwang/GoFundMe#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=GoFundMe&theme=github_light&hide_border=true" alt="mern-project"></a>
     <a href="https://github.com/denniszwang/DegreePlanner#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=DegreePlanner&theme=github_dark&hide_border=true" alt="mern-project"></a>
     <a href="https://github.com/denniszwang/DegreePlanner#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=DegreePlanner&theme=github_light&hide_border=true" alt="mern-project"></a>
   </div>
