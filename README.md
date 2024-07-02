@@ -79,14 +79,14 @@
 <details open>
   <summary style="font-size: 1.2em;">📘 Featured Projects</summary>
   <div>
-    <a href="https://github.com/denniszwang//GoFundMe#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=/GoFundMe&theme=github_dark&hide_border=true" alt="mern-project"></a>
-    <a href="https://github.com/denniszwang//GoFundMe#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=/GoFundMe&theme=github_light&hide_border=true" alt="mern-project"></a>
+    <a href="https://github.com/denniszwang//GoFundMe#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=GoFundMe&theme=github_dark&hide_border=true" alt="mern-project"></a>
+    <a href="https://github.com/denniszwang//GoFundMe#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=GoFundMe&theme=github_light&hide_border=true" alt="mern-project"></a>
     <a href="https://github.com/denniszwang/DegreePlanner#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=DegreePlanner&theme=github_dark&hide_border=true" alt="mern-project"></a>
     <a href="https://github.com/denniszwang/DegreePlanner#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=DegreePlanner&theme=github_light&hide_border=true" alt="mern-project"></a>
   </div>
 </details>
 
-<details>
+<details open>
   <summary style="font-size: 1.2em;">🔥 Contribution Report</summary>
   <div>
     <h3>Contribution Overview</h3> 
@@ -107,11 +107,4 @@
     <img src="https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
     <img src="https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
   </div> -->
-</details>
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
 </details>
