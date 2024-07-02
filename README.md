@@ -79,10 +79,10 @@
 <details open>
   <summary style="font-size: 1.2em;">📘 Featured Projects</summary>
   <div>
-    <a href="https://github.com/denniszwang/DegreePlanner#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=DegreePlanner&theme=github_dark&hide_border=true" alt="react-project"></a>
-    <a href="https://github.com/denniszwang/DegreePlanner#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=DegreePlanner&theme=github_light&hide_border=true" alt="react-project"></a>
-    <a href="https://github.com/denniszwang/denniszwang#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=denniszwang&theme=github_dark&hide_border=true" alt="vue-project"></a>
-    <a href="https://github.com/denniszwang/denniszwang#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=denniszwang&theme=github_light&hide_border=true" alt="vue-project"></a>
+    <a href="https://github.com/denniszwang//GoFundMe#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=/GoFundMe&theme=github_dark&hide_border=true" alt="mern-project"></a>
+    <a href="https://github.com/denniszwang//GoFundMe#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=/GoFundMe&theme=github_light&hide_border=true" alt="mern-project"></a>
+    <a href="https://github.com/denniszwang/DegreePlanner#gh-dark-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=DegreePlanner&theme=github_dark&hide_border=true" alt="mern-project"></a>
+    <a href="https://github.com/denniszwang/DegreePlanner#gh-light-mode-only"><img width="278" src="https://github-readme-stats-dennis.vercel.app/api/pin/?username=denniszwang&repo=DegreePlanner&theme=github_light&hide_border=true" alt="mern-project"></a>
   </div>
 </details>
 
