@@ -117,11 +117,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [denniszwang/Best-README-Template](https://github.com/denniszwang/Best-README-Template) from [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)<br>
-2. ⭐ Starred [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)<br>
-3. ⬆️ Pushed 1 commit(s) to [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)<br>
-4. ⭐ Starred [Vinayak-09/Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [denniszwang/GoFundMe](https://github.com/denniszwang/GoFundMe)<br>
+1. ⭐ Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)<br>
+2. 🔱 Forked [denniszwang/Best-README-Template](https://github.com/denniszwang/Best-README-Template) from [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)<br>
+3. ⭐ Starred [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)<br>
+4. ⬆️ Pushed 1 commit(s) to [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)<br>
+5. ⭐ Starred [Vinayak-09/Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
