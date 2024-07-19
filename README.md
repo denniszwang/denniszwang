@@ -21,11 +21,8 @@
   <a href="https://linkedin.com/in/denniswang1011#gh-light-mode-only"><img src="./img/linkedin-light.svg" alt="website" width="40"></a>
   <a href="https://linkedin.com/in/denniswang1011#gh-dark-mode-only"><img src="./img/linkedin-dark.svg" alt="website" width="40"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/coachdwang#gh-light-mode-only"><img src="./img/twitter-light.svg" alt="website" width="40"></a>
-  <a href="https://x.com/coachdwang#gh-dark-mode-only"><img src="./img/twitter-dark.svg" alt="website" width="40"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/denniszwang#gh-light-mode-only"><img src="./img/github-light.svg" alt="website" width="40"></a>
-  <a href="https://github.com/denniszwang#gh-dark-mode-only"><img src="./img/github-dark.svg" alt="website" width="40"></a>
+  <a href="https://github.com/denniszwang#gh-dark-mode-only"><img src="./img/github-dark.svg" alt="website" width="40"></a> 
 </div>
 
 <h3> About Me</h3>
