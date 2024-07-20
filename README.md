@@ -114,11 +114,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [krahets/LeetCode-Book](https://github.com/krahets/LeetCode-Book)<br>
-2. ⭐ Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)<br>
-3. 🔱 Forked [denniszwang/Best-README-Template](https://github.com/denniszwang/Best-README-Template) from [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)<br>
-4. ⭐ Starred [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)<br>
-5. ⬆️ Pushed 1 commit(s) to [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)<br>
+1. ⭐ Starred [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)<br>
+2. ⬆️ Pushed 1 commit(s) to [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)<br>
+3. ⭐ Starred [krahets/LeetCode-Book](https://github.com/krahets/LeetCode-Book)<br>
+4. ⭐ Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)<br>
+5. 🔱 Forked [denniszwang/Best-README-Template](https://github.com/denniszwang/Best-README-Template) from [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
