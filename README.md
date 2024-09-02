@@ -12,8 +12,8 @@
 </div>
 
 <div align="center">
-  <a href="https://denniszwang.github.io/#gh-light-mode-only"><img src="./img/globe-light.svg" alt="website" width="40"></a>
-  <a href="https://denniszwang.github.io/#gh-dark-mode-only"><img src="./img/globe-dark.svg" alt="website" width="40"></a>
+  <a href="https://denniszwang.com/#gh-light-mode-only"><img src="./img/globe-light.svg" alt="website" width="40"></a>
+  <a href="https://denniszwang.com/#gh-dark-mode-only"><img src="./img/globe-dark.svg" alt="website" width="40"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.dropbox.com/scl/fi/20pt0byz7gbeuesuw48db/Dennis-Resume.pdf?rlkey=hubr37m3fdpegdic4r0u7pujc&st=4ws60hlb&dl=0#gh-light-mode-only"><img src="./img/file-light.svg" alt="website" width="40"></a>
   <a href="https://www.dropbox.com/scl/fi/20pt0byz7gbeuesuw48db/Dennis-Resume.pdf?rlkey=hubr37m3fdpegdic4r0u7pujc&st=4ws60hlb&dl=0#gh-dark-mode-only"><img src="./img/file-dark.svg" alt="website" width="40"></a>
