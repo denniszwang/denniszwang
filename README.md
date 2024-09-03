@@ -115,10 +115,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)<br>
-2. ⭐ Starred [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)<br>
-3. ⭐ Starred [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)<br>
-4. ⬆️ Pushed 1 commit(s) to [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)<br>
-5. ⭐ Starred [krahets/LeetCode-Book](https://github.com/krahets/LeetCode-Book)<br>
+2. ⭐ Starred [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio)<br>
+3. ⬆️ Pushed 1 commit(s) to [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)<br>
+4. ⭐ Starred [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)<br>
+5. ⭐ Starred [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
