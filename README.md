@@ -27,7 +27,7 @@
 
 <h3> About Me</h3>
 <div> My name is <b>Dennis Wang</b>, and I am a CS Graduate Student at <strong>UPenn</strong>.</div>
-<div> I am a <b>non-binary</b> software developer, seeking <b><ins>Full-Time SDE</ins></b> position.</div>
+<div> I am a <b>full-stack</b> software developer, seeking <b><ins>Full-Time SDE</ins></b> position.</div>
 
 <h3> Languages and Tools</h3>
 <div>
