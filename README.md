@@ -114,11 +114,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)<br>
-2. ⬆️ Pushed 1 commit(s) to [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)<br>
-3. ⬆️ Pushed 1 commit(s) to [denniszwang/DegreePlanner](https://github.com/denniszwang/DegreePlanner)<br>
-4. ⬆️ Pushed 1 commit(s) to [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)<br>
-5. 💬 Commented on [#2](https://github.com/PennApps-XXV/TaskBoard/issues/2#issuecomment-2364962934) in [PennApps-XXV/TaskBoard](https://github.com/PennApps-XXV/TaskBoard)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
