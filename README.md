@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&Duration=3000&pause=1000&color=fff&center=true&vCenter=true&random=false&width=550&height=55&lines=Full-Stack+Web+Developer;Experienced+UI%2FUX+Designer;Computer+Science+Master" alt="Typing SVG Dark" />
   </a>
 </div>
-
+<!--
 <div align="center">
   <a href="https://denniszwang.com/#gh-light-mode-only"><img src="./img/globe-light.svg" alt="website" width="40"></a>
   <a href="https://denniszwang.com/#gh-dark-mode-only"><img src="./img/globe-dark.svg" alt="website" width="40"></a>
@@ -24,6 +24,7 @@
   <a href="https://github.com/denniszwang#gh-light-mode-only"><img src="./img/github-light.svg" alt="website" width="40"></a>
   <a href="https://github.com/denniszwang#gh-dark-mode-only"><img src="./img/github-dark.svg" alt="website" width="40"></a> 
 </div>
+--!>
 
 <h3> About Me</h3>
 <div> My name is <b>Dennis Wang</b>, and I am a CS Graduate Student at <strong>UPenn</strong>.</div>
