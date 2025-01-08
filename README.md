@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.herokuapp.com#gh-light-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&Duration=3000&pause=1000&color=000&center=true&vCenter=true&random=false&width=550&height=55&lines=Full-Stack+Web+Developer;Experienced+UI%2FUX+Designer;Computer+Science+Master" alt="Typing SVG Light" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&Duration=3000&pause=1000&color=000&center=true&vCenter=true&random=false&width=550&height=55&lines=Full-Stack+Software+Developer;Computer+Science+Master" alt="Typing SVG Light" />
   </a>
   <a href="https://readme-typing-svg.herokuapp.com#gh-dark-mode-only">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&Duration=3000&pause=1000&color=fff&center=true&vCenter=true&random=false&width=550&height=55&lines=Full-Stack+Web+Developer;Experienced+UI%2FUX+Designer;Computer+Science+Master" alt="Typing SVG Dark" />
