@@ -115,8 +115,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)<br>
-2. ⬆️ Pushed 1 commit(s) to [denniszwang/denniszwang](https://github.com/denniszwang/denniszwang)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
