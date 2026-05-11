@@ -27,7 +27,7 @@
 --!>
 
 <h3> About Me</h3>
-<div> My name is <b>Dennis Wang</b>, and I am a Software Developer at <strong>TikTok</strong>.</div>
+<div> My name is <b>Dennis Wang</b>, and I am a Software Developer at <strong>Google</strong>.</div>
 
 <h3> Languages and Tools</h3>
 <div>
