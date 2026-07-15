@@ -76,7 +76,7 @@
   </a>
 </div>
 
-<h3 style="margin: 1vh 0;">Github Summary</h3>
+<!-- <h3 style="margin: 1vh 0;">Github Summary</h3>
 <details open>
   <summary style="font-size: 1.2em;">📘 Featured Projects</summary>
   <div>
@@ -108,7 +108,7 @@
     <img src="https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
     <img src="https://github.com/denniszwang/denniszwang/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
   </div> -->
-</details>
+</details> -->
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
